@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"name": "obstacle-avoiding-robot",
+		"path": "."
+	}
+],
+  "settings": {
+    "ros.distro": "humble"
+  }
+}
